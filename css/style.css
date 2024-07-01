@@ -1,0 +1,16 @@
+@font-face{font-family:'Syncopate';src:url(Syncopate.woff2) format('woff2');}
+@font-face{font-family:'CPC';src:url(cpc.woff2) format('woff2');}
+@font-face{font-family:'C64';src:url(c64.woff2) format('woff2');}
+@font-face{font-family:'Topaz8';src:url(Topaz8.woff2) format('woff2');}
+@font-face{font-family:'AtariLo';src:url(AtariLo.woff2) format('woff2');}
+
+body {
+	margin: 0;
+	background-color: #000;
+	color: #FFF;
+	overflow: hidden;
+	user-select: none;
+	cursor: none;
+	font: 4vw Syncopate;
+	height: 100vh;
+}
